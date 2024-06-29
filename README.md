@@ -43,7 +43,7 @@ maximize
 2, 4, 6
 ```  
 
-###Output will be like :  
+Output will be like :  
 - Initial Tableau (initial_tableau)  
 - Final Tableau (final_tableau)  
 - Status of Solution (solution_status) : “optimal”/ “infeasible”/ “unbounded”  
