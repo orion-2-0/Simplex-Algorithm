@@ -50,7 +50,7 @@ Output will be like :
 -> Optimal Solution Vector (optimal_solution): It will return the optimal solution 
 vector x*, which contains the values of the decision variables [x1, x2, ..., xn] that maximize or 
 minimize the objective function, depending on the problem statement. This vector will be 
-in a standardized format, such as a NumPy array.
+in a standardized format, such as a NumPy array.  
 -> Optimal Value (optimal_value): Real values
 The format of the tableau will be like a matrix having m rows, where m is the number of equations 
 given in constraints and the columns will be as follows: first column for the values of current BFS, 
