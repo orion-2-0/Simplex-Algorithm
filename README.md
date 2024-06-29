@@ -34,10 +34,12 @@ Sample Input ::
 11  
 12  
   
-[constraint_types]  
+[constraint_types]
+```
 <=  
 >=  
-=  
+=
+```
   
 [c]  
 2, 4, 6
