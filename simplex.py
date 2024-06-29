@@ -304,5 +304,5 @@ def phase_I (A, b, myDict):
     
     return A,c
 
-A,b,c,myDict = read_input("input2.txt")
+A,b,c,myDict = read_input("input.txt")
 phase_I(A,b,myDict)
