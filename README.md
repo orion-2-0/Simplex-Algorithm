@@ -15,16 +15,13 @@ corresponding to a constraint in the [A] section.
 4. The [constraint_types] section specifies the type of each constraint corresponding to the rows 
 in [A] and [b]. Use <= for less than or equal to, >= for greater than or equal to, and = for equality 
 constraints.  
-5.  The [c] section contains the coefficients of the objective function's variables in one row
+5.  The [c] section contains the coefficients of the objective function's variables in one row.
 
 Sample Input :  
-
+```
 [objective]
 maximize
 
-
-Sample Input ::  
-```
 [A]  
 1, 2, 3  
 4, 5, 6  
